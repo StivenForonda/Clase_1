@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplicationSF</string>
+    <string name="titulo">Calculadora</string>
+    <string name="primerNumero">Num1</string>
+    <string name="SegundoNumero">Num2</string>
+    <string name="sumar">Sum</string>
+</resources>
